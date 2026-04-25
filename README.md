@@ -1,4 +1,4 @@
-# student-performance-predictor
+
 # Student Performance Predictor
 
 ## 📌 Overview
